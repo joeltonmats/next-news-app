@@ -1,6 +1,6 @@
-# Next Routing Rendering
+# Next News App
 
-This repository contains the code and resources for the "Next Routing Rendering" project. It is a simple application designed to demonstrate the basics of routing and rendering in the Next.js framework.
+This repository contains the code and resources for the "Next News App" project. It is a simple application designed to demonstrate the basics of routing and rendering in the Next.js framework.
 
 ## Tech Stack
 
